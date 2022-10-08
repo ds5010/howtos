@@ -16,6 +16,7 @@ OR
 `$ ps $$`
 
 ![output](img/ps$$.png)
+
 Configuration file contains the commands that run in the shell. There are two main shells that is used by mac. Bash and Zsh.
 
 Apple use set the Zsh as the default for any new user account that is created in macOS Catalina or later in 2019. Every new Mac uses the Z shell (Zsh) by default

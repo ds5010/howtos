@@ -8,11 +8,13 @@
 ## First check which shell you are using with command
 
 `$ echo $SHELL`
+
 ![output](img/echoshell.png)
 
 OR
 
 `$ ps $$`
+
 ![output](img/ps$$.png)
 Configuration file contains the commands that run in the shell. There are two main shells that is used by mac. Bash and Zsh.
 

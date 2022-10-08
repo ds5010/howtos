@@ -24,7 +24,7 @@ Apple use set the Zsh as the default for any new user account that is created in
 Some old version mac is using bash. Configuration mechanic for mash is pretty messy becase there are several configuration files for bash in each level. For example
 `.bashrc` `.bash_profile` `etc/profile`. If you dont want to switch to zsh, you can dive [deep in bash](https://www.baeldung.com/linux/bashrc-vs-bash-profile-vs-profile)
 
-## For folks using zsh shell
+### For folks using zsh shell
 
 Your configuration is in .zshrc
 
@@ -38,7 +38,7 @@ Use source command to update your environment variable configuration.
 $ source .zshrc
 ```
 
-## For folks using bash shell
+### For folks using bash shell
 
 Your configuration is in .zshrc
 
@@ -71,3 +71,11 @@ $ which pip
 ```
 
 ![output](img/whichpipandpython.png)
+
+# Install make command for mac
+
+`$ brew install make`
+
+If you don't have brew on your mac go to [Link](https://brew.sh/)
+
+Run `$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`

@@ -1,5 +1,7 @@
-# This is the repo will includes some answer to general questions for ds5010 students.
+# HOWTOs
 
-[instruction for setting up develop environment for mac](<https://github.com/ds5010/howtos/wiki/How-to-setup-develop-environment-for-Mac.-(anaconda-python,pip)>)
+Setting up a development environment for...
 
-[instruction for setting up develop environment for windows](https://github.com/ds5010/howtos/wiki/How-to-setup-develop-environment-for-Windows)
+[Mac](<https://github.com/ds5010/howtos/wiki/How-to-setup-develop-environment-for-Mac.-(anaconda-python,pip)>)
+
+[Windows](https://github.com/ds5010/howtos/wiki/How-to-setup-develop-environment-for-Windows)
